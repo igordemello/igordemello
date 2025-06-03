@@ -8,7 +8,6 @@
 
 - 📚 Cursando Ciência da Computação na PUC RIO com 100% de bolsa
 - 💻 Técnico em Desenvolvimento de Sistemas pelo Colégio Pedro II
-- 🎮 Interesse especial em projetos voltados para e-Sports  
 - 📘 Sempre aprendendo novas tecnologias  
 
 ---
